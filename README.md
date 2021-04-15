@@ -20,7 +20,7 @@ Currently I'm studyng Strategic Data Analytics at Fundación Universitaria Konra
 and working on my Python skills. I have interest in Data Engineering and Web Scraping. 
 Recently I'm working on Web Development and later on back-end development and that's because I love working with data!
 
-### Some tecnologies I have experience on:
+### Some tecnologies I have experience on (in order of skill):
 
 - Python
 - MySQL
