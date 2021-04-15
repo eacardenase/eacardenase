@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **eacardenase/eacardenase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## I'm a psychologist that loves to programming! 
+
+Currently I'm studyng Strategic Data Analytics at Fundación Universitaria Konrad Lorenz,
+and working on my Python skills. I have interest in Data Engineering and Web Scraping. 
+Recently I'm working on HTML and CSS to have some hand's on experience into Web Development and later on back-end development
+and that's because I love working with data!
