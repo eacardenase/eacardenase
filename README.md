@@ -18,5 +18,15 @@ Here are some ideas to get you started:
 
 Currently I'm studyng Strategic Data Analytics at Fundación Universitaria Konrad Lorenz,
 and working on my Python skills. I have interest in Data Engineering and Web Scraping. 
-Recently I'm working on HTML and CSS to have some hand's on experience into Web Development and later on back-end development
-and that's because I love working with data!
+Recently I'm working on Web Development and later on back-end development and that's because I love working with data!
+
+### Some tecnologies I have experience on:
+
+- Python
+- MySQL
+- Data Analysis (pandas, numpy, matplotlib, scikit-learn)
+- Web Scraping (Beautiful Soup 4, Scrapy)
+- HTML
+- CSS
+- Git
+- Power BI
