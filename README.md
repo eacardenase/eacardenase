@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## I'm a psychologist that loves to programming! 
+## I'm a psychologist that loves programming! 
 
 Currently I'm studyng Strategic Data Analytics at Fundación Universitaria Konrad Lorenz,
 and working on my Python skills. I have interest in Data Engineering and Web Scraping. 
