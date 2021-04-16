@@ -24,7 +24,7 @@ Recently I'm working on Web Development and later on back-end development and th
 
 - Python
 - Data Analysis (pandas, numpy, matplotlib, scikit-learn)
-- [MySQL](<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>)
+- <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 - Git
 - Web Scraping (Beautiful Soup 4, Scrapy)
 - HTML
