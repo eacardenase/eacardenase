@@ -22,8 +22,8 @@ Recently I'm working on Web Development and later on back-end development and th
 
 ### Some tecnologies I have experience on (ORDER BY LEVEL_OF_SKILL DESC):
 
-- Python 
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+- Python
+  <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 - Data Analysis (pandas, numpy, matplotlib, scikit-learn)
 - MySQL 
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
