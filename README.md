@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 ## I'm a psychologist that loves programming! 
 
-Specialist in Strategic Data Analytics at Fundación Universitaria Konrad Lorenz,
-and working on my Python skills. I have interest in Software Engineering. 
-Recently I'm working on Web Development and later on back-end development and that's because I love working with data!
+Specialist in Strategic Data Analytics at Fundación Universitaria Konrad Lorenz.
+I have interest in Software Development, and recently I'm working on honing my Frontend skills!
 
 ### Some tecnologies I have experience on (ORDER BY LEVEL_OF_SKILL DESC):
 
