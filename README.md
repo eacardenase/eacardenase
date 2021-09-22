@@ -30,14 +30,14 @@ I have interest in Software Development, and recently I'm working on honing my F
 ## :trophy: My Github Stats:
 
 <!--
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=eacardenase&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=eacardenase&hide=php&theme=tokyonight)
+![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=eacardenase&count_private=true&show_icons=true&theme=dracula)
+![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=eacardenase&hide=php&theme=dracula)
 -->
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=eacardenase&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=eacardenase&count_private=true&show_icons=true&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api?username=eacardenase&theme=dracula">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=eacardenase&count_private=true&show_icons=true&theme=dracula" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=eacardenase&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eacardenase&hide=php&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=eacardenase&hide=php&theme=dracula">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eacardenase&hide=php&theme=dracula" />
 </a>
 </div>
