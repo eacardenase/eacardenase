@@ -29,10 +29,11 @@ I have interest in Software Development, and recently I'm working on honing my F
 
 ## :trophy: My Github Stats:
 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eacardenase&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eacardenase&theme=dracula)
+
 <!--
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=eacardenase&count_private=true&show_icons=true&theme=dracula)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=eacardenase&hide=php&theme=dracula)
--->
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=eacardenase&theme=dracula">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=eacardenase&count_private=true&show_icons=true&theme=dracula" />
@@ -41,3 +42,4 @@ I have interest in Software Development, and recently I'm working on honing my F
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eacardenase&hide=php&theme=dracula" />
 </a>
 </div>
+-->
