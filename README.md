@@ -26,14 +26,14 @@ I have interest in Software Development, and recently I'm working on honing my F
 ## :trophy: My Github Stats:
 
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=eacardenase&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eacardenase&theme=dracula) -->
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=eacardenase&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eacardenase) -->
 
 <div>
+  <a href="https://github-readme-stats.vercel.app/api?username=eacardenase&show_icons=true">
     <img  align="left" src="https://github-readme-stats.vercel.app/api?username=eacardenase&show_icons=true" />
-  <!-- <a href="https://github-readme-stats.vercel.app/api?username=eacardenase&show_icons=true&theme=dracula">
-  </a> -->
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=eacardenase">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eacardenase" />
-  <!-- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=eacardenase">
-  </a> -->
+  </a>
 </div>
