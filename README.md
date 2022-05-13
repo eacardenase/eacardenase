@@ -30,10 +30,10 @@ I have interest in Software Development, and recently I'm working on honing my F
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eacardenase&theme=dracula) -->
 
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=eacardenase&show_icons=true&theme=dracula">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=eacardenase&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=eacardenase&theme=dracula">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eacardenase&theme=dracula" />
-</a>
+  <a href="https://github-readme-stats.vercel.app/api?username=eacardenase&show_icons=true&theme=dracula">
+    <img  align="left" src="https://github-readme-stats.vercel.app/api?username=eacardenase&show_icons=true" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=eacardenase">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eacardenase" />
+  </a>
 </div>
