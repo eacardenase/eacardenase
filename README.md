@@ -1,9 +1,10 @@
 # Hi there 👋
 
-## I'm a psychologist that loves programming! 
+## I'm a psychologist that loves programming!
 
-Specialist in Strategic Data Analytics at Fundación Universitaria Konrad Lorenz.
-I have interest in Software Development, and recently I'm working on honing my Frontend skills!
+Backend Developer with solid knowledge in JavaScript and TypeScript, NodeJS (Express), relational databases (MySQL) and no relational databases (MongoDB & Redis), OAuth and JWT, as well as Salesforce Commerce Cloud (SFCC). Passionate about IT world, building a better world through software development one line of code at a time.
+
+Go enthusiast.
 
 ### Some tecnologies I have experience on (ORDER BY LEVEL_OF_SKILL DESC):
 
@@ -24,7 +25,6 @@ I have interest in Software Development, and recently I'm working on honing my F
 </div>
 
 ## :trophy: My Github Stats:
-
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=eacardenase&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eacardenase) -->
