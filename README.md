@@ -21,10 +21,8 @@ Go enthusiast.
    <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
    <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
 </div>
-## :trophy: My Github Stats:
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=eacardenase&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eacardenase) -->
+## My Github Stats :trophy: :
 
 <div>
   <a href="https://github-readme-stats.vercel.app/api?username=eacardenase&show_icons=true">
