@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I'm a psychologist that loves programming!
+<!-- ## I'm a psychologist that loves programming! -->
 
 Full Stack Developer with solid knowledge in JavaScript and TypeScript, ReactJS, NodeJS (Express), relational databases (MySQL) and no relational databases (MongoDB & Redis), OAuth and JWT, as well as Salesforce Commerce Cloud (SFCC). Passionate about IT world, building a better world through software development one line of code at a time.
 
