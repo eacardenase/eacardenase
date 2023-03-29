@@ -6,7 +6,7 @@ iOS developer with a strong foundation in Swift, UIKit, AutoLayout, Core Data, N
 
 As a passionate and quick learner, I am eager to expand my skill set and take ownership of my work, delivering high-quality, well-documented, modular, and maintainable code. I thrive in fast-paced, collaborative and multicultural environments.
 
-<a>
+<a target="_blank" src="https://www.linkedin.com/in/eacardenase/">
    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
