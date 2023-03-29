@@ -10,8 +10,6 @@ As a passionate and quick learner, I am eager to expand my skill set and take ow
    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-Cloud enthusiast.
-
 ### Some tecnologies I have experience on (ORDER BY LEVEL_OF_SKILL DESC):
 
 <div>
