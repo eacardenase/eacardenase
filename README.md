@@ -2,7 +2,7 @@
 
 ## I'm Edwin Cardenas, glad to have you here!
 
-iOS developer with a strong foundation in Swift, UIKit, AutoLayout, Core Data, Networking, and Firebase using MVC and MVVM architectures, as well as experience in unit and integration testing using XCTest and consuming RESTful APIs. In addition, my background in backend development, including NodeJS, MySQL, MongoDB, and Redis, would allow me to collaborate effectively with cross-functional teams and provide a holistic approach to development.
+Backend Developer with solid knowledge in JavaScript and TypeScript, NodeJS (Express and NestJS), relational databases (MySQL) and no relational databases (MongoDB & Redis), OAuth and JWT. In addition, my background in frontend development, including ReactJS, Redux, React Router DOM and Firebase would allow me to collaborate effectively with cross-functional teams and provide a holistic approach to development.
 
 As a passionate and quick learner, I am eager to expand my skill set and take ownership of my work, delivering high-quality, well-documented, modular, and maintainable code. I thrive in fast-paced, collaborative and multicultural environments.
 
