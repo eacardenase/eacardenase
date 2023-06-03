@@ -22,8 +22,10 @@ As a passionate and quick learner, I am eager to expand my skill set and take ow
    <img alt="Realm" src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white"/>
    <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
    </br>
+   </br>
    <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+   </br>
    </br>
    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
