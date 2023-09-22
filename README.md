@@ -42,7 +42,7 @@ As a passionate and quick learner, I am eager to expand my skill set and take ow
 <!--    <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> -->
 </div>
 
-## My Github Stats :trophy: :
+### My Github Stats :trophy: :
 
 <div style="display: flex">
   <a href="https://github-readme-stats.vercel.app/api?username=eacardenase&show_icons=true">
