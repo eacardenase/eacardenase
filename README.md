@@ -48,9 +48,6 @@ As a passionate and quick learner, I am eager to expand my skill set and take ow
   <a href="https://github-readme-stats.vercel.app/api?username=eacardenase&show_icons=true">
     <img  align="left" src="https://github-readme-stats.vercel.app/api?username=eacardenase&show_icons=true" />
   </a>
-  <a align="center">
-     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eacardenase&theme=dracula&layout=compact&hide_border=true&hide=html,css,handlebars,procfile,scss" alt="danielalfaro2222" />
-  </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=eacardenase">
      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eacardenase&layout=compact" />
   </a>
