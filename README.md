@@ -2,15 +2,15 @@
 
 ## I'm Edwin Cardenas, glad to have you here!
 
-iOS developer with a strong foundation in Swift, UIKit, AutoLayout, SwiftUI Core Data, Networking, and Firebase using MVC and MVVM architectures, as well as experience in unit and integration testing using XCTest and consuming RESTful APIs. In addition, my background in backend development, including NodeJS, MySQL, MongoDB, and Redis, would allow me to collaborate effectively with cross-functional teams and provide a holistic approach to development.
+iOS developer with a strong foundation in Swift, UIKit, AutoLayout, SwiftUI, Core Data, Networking, and Firebase using MVC and MVVM architectures, as well as experience in unit and integration testing with XCTest and consuming RESTful APIs. In addition, my background in backend development, including NodeJS, Laravel, MySQL, MongoDB, and Redis, would allow me to collaborate effectively with cross-functional and multicultural teams and provide a holistic approach to development.
 
-As a passionate and quick learner, I am eager to expand my skill set and take ownership of my work, delivering high-quality, well-documented, modular, and maintainable code. I thrive in fast-paced, collaborative and multicultural environments.
+As a passionate and quick learner, I am eager to expand my skill set and take ownership of my work, delivering high-quality, well-documented, modular, and maintainable code.
 
 <a target="_blank" href="https://www.linkedin.com/in/eacardenase/">
    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-### Some tecnologies I have experience on (ORDER BY LEVEL_OF_SKILL DESC):
+### Some technologies I have experience with (ORDER BY LEVEL_OF_SKILL DESC):
 
 <div>
    <img alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
