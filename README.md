@@ -2,7 +2,7 @@
 
 ## I'm Edwin Cardenas, glad to have you here!
 
-Mobile developer with a strong foundation in Flutter, Dart, Riverpod, BLoC, Cubit and Firebase using MVC and MVVM architectures, as well as experience in unit and integration testing and consuming RESTful APIs. In addition, my background in backend development, including NodeJS, Laravel, MySQL, MongoDB, and Redis, would allow me to collaborate effectively with cross-functional and multicultural teams and provide a holistic approach to development.
+Full Stack Developer with solid knowledge in JavaScript/TypeScript, ReactJS, NodeJS (Express), PHP with Laravel and Ruby and Ruby on Rails, relational databases (MySQL and PostgreSQL) and no relational databases (MongoDB & Redis), OAuth and JWT, as well as experience in unit and integration testing with Jest (Node) and RSpec (Ruby). Passionate about IT world, building a better world through software development one line of code at a time.
 
 As a passionate and quick learner, I am eager to expand my skill set and take ownership of my work, delivering high-quality, well-documented, modular, and maintainable code.
 
