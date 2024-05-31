@@ -2,7 +2,7 @@
 
 ## I'm Edwin Cardenas, glad to have you here!
 
-Full Stack Developer with solid knowledge in JavaScript/TypeScript, React.js, Node.js (Express/Nest.js), PHP with Laravel and Ruby with Ruby on Rails, relational databases (MySQL and PostgreSQL) and no relational databases (MongoDB & Redis), OAuth and JWT, as well as experience in unit and integration testing with Jest (Node) and RSpec (Ruby). Passionate about IT world, building a better world through software development one line of code at a time.
+Full Stack Developer with solid knowledge in JavaScript/TypeScript, React.js, Node.js (Express/Nest.js), PHP with Laravel and Ruby with Ruby on Rails, relational databases (MySQL and PostgreSQL) and no relational databases (Redis and Firestore), OAuth and JWT, as well as experience in unit and integration testing with Jest (Node) and RSpec (Ruby). Passionate about IT world, building a better world through software development one line of code at a time.
 
 As a passionate and quick learner, I am eager to expand my skill set and take ownership of my work, delivering high-quality, well-documented, modular, and maintainable code.
 
