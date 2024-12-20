@@ -2,7 +2,7 @@
 
 ## I'm Edwin Cardenas, glad to have you here!
 
-Full Stack Developer with solid knowledge in JavaScript/TypeScript, React.js, Node.js (Express/Nest.js), PHP with Laravel and Ruby with Ruby on Rails, relational databases (MySQL and PostgreSQL) and no relational databases (Redis and Firestore), OAuth and JWT, as well as experience in unit and integration testing with Jest (Node) and RSpec (Ruby). Passionate about IT world, building a better world through software development one line of code at a time.
+iOS developer with a strong foundation in Swift, UIKit, AutoLayout, SwiftUI, Core Data, Networking, and Firebase using MVC and MVVM architectures, as well as experience in unit and integration testing with XCTest and consuming RESTful APIs. In addition, my background in backend development, including NodeJS, Laravel, MySQL, MongoDB, and Redis, would allow me to collaborate effectively with cross-functional and multicultural teams and provide a holistic approach to development.
 
 As a passionate and quick learner, I am eager to expand my skill set and take ownership of my work, delivering high-quality, well-documented, modular, and maintainable code.
 
@@ -13,21 +13,21 @@ As a passionate and quick learner, I am eager to expand my skill set and take ow
 ### Some technologies I have experience with (ORDER BY LEVEL_OF_SKILL DESC):
 
 <div>
-   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-   <br/>
-   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-   <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
-   <br/>
-   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-   <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+   <img alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
+   <img alt="XCode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>
+   <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
    <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-   <br/>
+   <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+   </br>
+   </br>
    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
    <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
    <img alt="NestJS" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-   <br/>
+   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+   <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
 </div>
 
 ### My Github Stats :trophy: :
