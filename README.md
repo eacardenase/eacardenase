@@ -35,7 +35,7 @@ As a passionate and quick learner, I am eager to expand my skill set and take ow
     <img  align="left" src="https://github-readme-stats.vercel.app/api?username=eacardenase&show_icons=true" />
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=eacardenase">
-     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eacardenase&layout=donut" />
+     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eacardenase&layout=compact" />
   </a>
 </div>
 
